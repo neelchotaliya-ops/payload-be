@@ -1,4 +1,4 @@
-import { CollectionConfig } from 'payload/types'
+import type { CollectionConfig } from 'payload'
 
 const Posts: CollectionConfig = {
   slug: 'posts',         // URL: GET /api/posts
