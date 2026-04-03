@@ -30,7 +30,4 @@ export default buildConfig({
   }),
   sharp,
   plugins: [],
-  graphQL: {
-    disable: false, // default anyway
-  },
 })
